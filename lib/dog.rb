@@ -1,5 +1,5 @@
 class Dog
-  attr_reader(name, breed)
+  #attr_reader(name, breed)
 
   def attributes(name, bread)
     @name = name
