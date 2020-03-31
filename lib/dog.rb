@@ -6,3 +6,4 @@ class Dog
 end
 
 findo = Dog.new
+fido.name = "Fido"
