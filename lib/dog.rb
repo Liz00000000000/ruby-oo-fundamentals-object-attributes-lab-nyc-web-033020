@@ -1,4 +1,4 @@
-class Dog
+class Dog(name, breed)
   def attributes(name, breed)
   @name = name
   @breed = breed
