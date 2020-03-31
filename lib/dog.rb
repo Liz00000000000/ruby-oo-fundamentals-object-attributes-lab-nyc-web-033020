@@ -8,4 +8,4 @@ end
 
 findo = Dog.new
 fido.name = "Fido"
-fido.breed = "Breed"
+fido.breed = "Beagle"
