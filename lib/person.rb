@@ -1,17 +1,7 @@
 class Person
-  def initialize(name, job)
-    @name = name
-    @job = job
-  end
-
-  def name
+  def instance_var
     @name
   end
-
-  def job
-    @job
-  end
-
 end
 
 #Beyonce = Person.new("Beyonce")
