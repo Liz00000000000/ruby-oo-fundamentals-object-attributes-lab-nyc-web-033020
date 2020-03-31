@@ -1,6 +1,6 @@
 class Person
-  def instance_var
-  @name = name 
+  def name
+  @name = name
   end
 end
 
