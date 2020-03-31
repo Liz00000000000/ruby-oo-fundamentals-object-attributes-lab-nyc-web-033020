@@ -1,5 +1,5 @@
 class Dog
-  attr_writer(name)
+  attr_writer(name, breed)
 
   def name
     @name
