@@ -13,6 +13,7 @@ class Person
   end
 
   def name=(new_name)
+    @name = new_name
 end
 
 #Beyonce = Person.new("Beyonce")
