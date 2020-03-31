@@ -11,6 +11,8 @@ class Person
   def job
     @job
   end
+
+  def name=(new_name)
 end
 
 #Beyonce = Person.new("Beyonce")
