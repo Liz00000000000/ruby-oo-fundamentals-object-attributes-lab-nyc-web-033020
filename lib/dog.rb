@@ -3,7 +3,7 @@ class Dog
 #  attr_writer(name,breed)
 #  attr_accessor(name, breed)
   def initialize(name)
-  @name = name
+   name
   end
   def name
     name
