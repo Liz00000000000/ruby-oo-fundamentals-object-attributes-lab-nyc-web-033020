@@ -1,11 +1,11 @@
 class Person
   attr_reader(name)
-  attr_writer(job)
+  #attr_writer(job)
 
    def job
      @job
    end
-   
+
    def name
    @name
    end
