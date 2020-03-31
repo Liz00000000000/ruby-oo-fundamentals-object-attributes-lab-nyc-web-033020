@@ -1,5 +1,5 @@
 class Dog
-  attr_writer(name, breed)
+  attr_writer(name)
 
   def name
     @name
@@ -16,7 +16,7 @@ class Dog
   def breed=(breed)
     @breed = breed
   end
-  
+
 end
 
 #fido = Dog.new
