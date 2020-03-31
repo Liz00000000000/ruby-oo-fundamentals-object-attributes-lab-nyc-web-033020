@@ -7,7 +7,9 @@ class Dog
   end
   def name
     @name
-  end 
+  end
+
+  def name=(name)
 end
 
 #fido = Dog.new
