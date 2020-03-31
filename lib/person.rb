@@ -10,7 +10,7 @@ class Person
 
   def job
     @job
-  end 
+  end
 end
 
-Beyonce = Person.new("Beyonce")
+#Beyonce = Person.new("Beyonce")
